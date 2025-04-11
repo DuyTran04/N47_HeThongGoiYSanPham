@@ -95,7 +95,7 @@ N47_HeThongGoiYSanPham/
 ## Các mô hình sử dụng
 
 ### 1. Deep Matrix Factorization (DMF)
-![Kiến trúc mô hình Deep Matrix Factorization](./images/dmf_architecture.jpg)
+![Kiến trúc mô hình Deep Matrix Factorization](dmf_architecture.jpg)
 - **Kiến trúc**: Mạng nơ-ron sâu với lớp embedding 32 chiều cho cả người dùng và sản phẩm, sau đó là các lớp kết nối đầy đủ (dense layers) với kích thước giảm dần 256→128→64→1
 - **Regularization**: Sử dụng L2 regularization (0.01) cho các lớp embedding
 - **Batch Normalization**: Áp dụng sau mỗi lớp dense để ổn định quá trình huấn luyện
