@@ -1,2 +1,2 @@
-Main Link:mongodb+srv://trandinhanhduy2004:Duytda@03@cluster0.13rkl6i.mongodb.net/thuongmai?retryWrites=true&w=majority
+Main Link:mongodb+srv://nhoktk000:Quan26012004@cluster.ap9ga.mongodb.net/ecommerce_db?retryWrites=true&w=majority
 Sub Link: mongodb+srv://trandinhanhduy2004:Duytda%4003@cluster0.13rkl6i.mongodb.net/thuongmai?retryWrites=true&w=majority
