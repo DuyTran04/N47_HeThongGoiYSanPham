@@ -268,9 +268,6 @@ http://localhost:5000
 
 - **[Nhóm 47 - Thực tập tốt nghiệp CNTT - FitVAA ]**
 
-## Giấy phép
-
-Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
 ## Lời Cảm Ơn
 
