@@ -144,7 +144,7 @@ N47_HeThongGoiYSanPham/
 
 ### Yêu cầu
 
-- Python 3.8+
+- Python 3.8 đến 3.12
 - MongoDB
 - TensorFlow 2.x
 
