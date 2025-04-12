@@ -268,10 +268,6 @@ http://localhost:5000
 
 - **[Group 47 - IT Graduation Internship - FitVAA]**
 
-## License
-
-This project is distributed under the MIT license. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - Thanks to **[Dr. Tran Nguyen Bao]** for support and guidance
